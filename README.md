@@ -1,1 +1,1 @@
-# This is the Rundom cat image downloader on Go
+# This is the rundom cat image downloader on Go
